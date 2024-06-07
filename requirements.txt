@@ -1,0 +1,3 @@
+mediapipe
+dlib
+opencv-python
